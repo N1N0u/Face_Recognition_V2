@@ -25,23 +25,23 @@ It serves as the **core engine for the upcoming USB Locker V3**, where facial au
 * 🧩 Modular, production-style architecture
 
 ---
+## 🔄 System Pipeline
 
-## 📸 Demo
-
-### 📷 Testing
-
-![Dataset capture](screenshots/data_collection.gif)
-![Embedding Phase](screenshots/embedding.gif)
-![Face recognition & Authorized vs Unauthorized result](screenshots/recognition.gif)
-
+1. Data Collection (via DroidCam)
+2. Face Detection (MTCNN)
+3. Embedding Extraction (FaceNet)
+4. Real-Time Recognition
 
 ---
 
-## 🧠 System Pipeline
+### 📸 Step 1: Data Collection
+![Dataset capture](screenshots/data_collection.gif)
 
-```text
-Camera → Face Detection → Face Cropping → Embedding → Similarity Check → Decision
-```
+### 🧠 Step 2: Embedding Extraction
+![Embedding Phase](screenshots/embedding.gif)
+
+### 🔐 Step 3: Recognition Output
+![Recognition](screenshots/recognition.gif)
 
 ---
 

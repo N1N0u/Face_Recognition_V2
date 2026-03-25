@@ -30,9 +30,9 @@ It serves as the **core engine for the upcoming USB Locker V3**, where facial au
 
 ### 📷 Testing
 
-![Dataset capture] (screenshots/data_collection.gif)
-![Embedding Phase] (screenshots/embedding.gif)
-![face recgnition & Authorized vs Unauthorized result] (screenshots/recognition.gif)
+![Dataset capture](screenshots/data_collection.gif)
+![Embedding Phase](screenshots/embedding.gif)
+![Face recognition & Authorized vs Unauthorized result](screenshots/recognition.gif)
 
 
 ---

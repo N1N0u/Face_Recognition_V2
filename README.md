@@ -26,6 +26,17 @@ It serves as the **core engine for the upcoming USB Locker V3**, where facial au
 
 ---
 
+## 📸 Demo
+
+### 📷 Testing
+
+![Dataset capture] (screenshots/data_collection.gif)
+![Embedding Phase] (screenshots/embedding.gif)
+![face recgnition & Authorized vs Unauthorized result] (screenshots/recognition.gif)
+
+
+---
+
 ## 🧠 System Pipeline
 
 ```text
@@ -98,17 +109,6 @@ python src/main.py
 * Built and tested on a **low-end personal machine**
 * Designed to work under limited resources
 * Focused on practical deployment, not just theory
-
----
-
-## 📸 Screenshots / Demo
-
-* Face detection in real-time
-* Authorized vs Unauthorized result
-* Dataset capture phase
-* System running live
-
-
 
 ---
 
